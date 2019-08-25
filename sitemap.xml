@@ -3,6 +3,16 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://mjvo.github.io/course-stub/slides/reveal-hugo/</loc>
+    <lastmod>2019-06-02T16:43:02-04:00</lastmod>
+  </url>
+  
+  <url>
+    <loc>https://mjvo.github.io/course-stub/slides/remark/</loc>
+    <lastmod>2019-04-25T09:50:00-07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://mjvo.github.io/course-stub/announcements/</loc>
     <lastmod>2018-08-12T10:58:08-04:00</lastmod>
   </url>
@@ -15,16 +25,6 @@
   <url>
     <loc>https://mjvo.github.io/course-stub/announcements/welcome/</loc>
     <lastmod>2018-08-12T10:58:08-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mjvo.github.io/course-stub/slides/reveal-hugo/</loc>
-    <lastmod>2018-06-02T16:43:02-04:00</lastmod>
-  </url>
-  
-  <url>
-    <loc>https://mjvo.github.io/course-stub/slides/remark/</loc>
-    <lastmod>2018-04-25T09:50:00-07:00</lastmod>
   </url>
   
   <url>
