@@ -1,7 +1,7 @@
 {
 	"version": 3,
 	"file": "main.css",
-	"sourceRoot": "/Users/molson/Documents/Github/course-stub",
+	"sourceRoot": "/Users/seminars/Documents/GitHub/course-stub",
 	"sources": [
 		"themes/hugo-course/assets/main.scss",
 		"themes/hugo-course/assets/bulma/utilities/_all.sass",
