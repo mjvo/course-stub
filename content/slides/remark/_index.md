@@ -1,6 +1,6 @@
 ---
 title: 'Story Remark Sample'
-date: "2019-04-25T09:50:00-07:00"
+date: "2019-01-01T09:50:00-07:00"
 cover_img: "leo-serrat-533922-unsplash.jpg"
 outputs: "Remark"
 
@@ -342,7 +342,7 @@ This column has numbered lists.
 # Code Typography Demo
 
 Remark offers [HighlightJS](https://highlightjs.org/) code syntax highlighting.
-Story enables/disables this with [feature flags](/features/).
+Story enables/disables this with [feature flags](https://story.xaprb.com/features/).
 
 ```javascript
 function $initHighlight(block, cls) {
@@ -360,7 +360,7 @@ class: col-2
 # Math Typesetting
 
 Story supports math equation typesetting using the KaTeX library,
-if [`feature-math`](/math/) is enabled.
+if [`feature-math`](https://story.xaprb.com/math/) is enabled.
 
 \\[
 \left( \beta mc^2 + c \left ( \sum_{n=1}^3 \alpha_n p\_n \right ) \right) \psi(x,t) = i \hbar \frac{\partial \psi(x,t) }{\partial t}
@@ -400,7 +400,7 @@ Adirondack has built-in support for QR codes to share your slides easily. No
 more emailing links or files! Your audience can simply snap a picture of the
 screen.
 
-Just enable the `feature-qrcode` [flag](/features/) and add markup like the
+Just enable the `feature-qrcode` [flag](https://story.xaprb.com/features/) and add markup like the
 following to your slide:
 
 ```css
