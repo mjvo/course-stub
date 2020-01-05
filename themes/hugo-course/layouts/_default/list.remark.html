@@ -24,8 +24,10 @@
 {{ define "main" }}
     <textarea id="source">
 			{{- .RawContent -}}
-    </textarea>
+	</textarea>
+	{{ if (in .Params.classes "feature-qrcode") -}}
 		<script type="text/javascript" src="{{ "remark/js/qrcode.js" | absURL }}"></script>
+	{{- end -}}
     <script src="{{ "remark/js/remark-latest.min.js" | absURL }}"></script>
     <script>
       var slideshow = remark.create({
