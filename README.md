@@ -1,6 +1,6 @@
 # course-stub
 
-Hugo-based themeset for creating course websites with Reveal.js slideshows 
+Hugo-based themeset for creating course websites.   Remark slides architecture courtesy of Baron Schwarz: https://github.com/xaprb/story/
 
 Demo:  https://mjvo.github.io/course-stub
 
