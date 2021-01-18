@@ -30,3 +30,5 @@ params:
     location: "Room #, Building"
     hero_img: "http://placehold.it/1920x1080&text=Hero+Image"
     hero_img_credit: "Image: <a href=\"#\">Title</a> by <a href=\"#\">Author Name</a>, YEAR"
+    plugins:
+      - p5js-widget

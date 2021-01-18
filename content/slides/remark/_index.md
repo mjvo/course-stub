@@ -16,6 +16,47 @@ classes:
 - feature-math
 - feature-qrcode
 highlight_style: "atom-one-dark"
+
+---
+<!-- Copy and Paste Me -->
+<div class="glitch-embed-wrap" style="height: 420px; width: 100%;">
+  <iframe
+    src="https://glitch.com/embed/#!/embed/p5js-simulate-snowflakes?path=sketch.js&previewSize=0"
+    title="p5js-simulate-snowflakes on Glitch"
+    allow="geolocation; microphone; camera; midi; vr; encrypted-media"
+    style="height: 100%; width: 100%; border: 0;">
+  </iframe>
+</div>
+
+---
+class: col-2
+
+# Test
+
+<script type="text/p5" data-preview-width="200">
+let slider;
+function setup() {
+  slider = createSlider(0, 255, 100);
+  slider.position(10, 10);
+  slider.style('width', '80px');
+}
+
+function draw() {
+  let val = slider.value();
+  background(val);
+}
+</script>
+
+## This is more text
+
+* bullet
+* another
+
+---
+## title 
+<iframe width="100%" height="80%" src="https://editor.p5js.org/mjvo/sketches/AgOg_6Jdw"></iframe>
+
+
 ---
 class: title, smokescreen, shelf, no-footer
 background-image: url(leo-serrat-533922-unsplash.jpg)

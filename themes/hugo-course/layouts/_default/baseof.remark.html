@@ -26,6 +26,9 @@
     <main role="main">
       {{ block "main" . }}
       {{ end }}
-      </main>
+    </main>
+    {{ if (in .Site.Params.course.plugins "p5js-widget") -}}
+    <script src="//toolness.github.io/p5.js-widget/p5-widget.js"></script>
+    {{- end -}}
   </body>
 </html>
