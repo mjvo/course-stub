@@ -1,7 +1,9 @@
 # course-stub
 
-Hugo-based themeset for creating course websites.   Remark slides architecture courtesy of Baron Schwarz: https://github.com/xaprb/story/
-=======
+## Hugo-based themeset for creating course websites.  
+
+Remark slides architecture courtesy of Baron Schwarz: https://github.com/xaprb/story/
+
 
 Demo:  https://mjvo.github.io/course-stub
 
